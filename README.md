@@ -1,4 +1,4 @@
-# Activity Lifecycle & Tracing Lifecycle Events with LogCat.
+# Activity Lifecycle & Tracing Lifecycle Events with Logcat.
 
 ## Introduction
 
